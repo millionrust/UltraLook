@@ -1,0 +1,6 @@
+build/
+DerivedData/
+UltraLook.xcodeproj/
+*.xcuserstate
+xcuserdata/
+.DS_Store
